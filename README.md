@@ -10,7 +10,7 @@
 * [Raúl Simioni](https://github.com/raulscarvalho)
 
 ## Sobre o Repositório
-#### Contém neste repositório as soluções dos 25 exercícios resolvidos do Capítulo 6 e do Capítulo 8 do livro "Fundamentos da Programação de Computadores".
+#### Contém neste repositório as soluções dos 15 exercícios resolvidos do Capítulo 6 e do Capítulo 8 do livro "Fundamentos da Programação de Computadores".
 
 #### Esses exercícios são requisitados pelo Trabalho 03, da disciplina de Programação Orientada a Objeto, no semestre 2024.1, lecionada no Instituto Federal do Ceará. 
 
