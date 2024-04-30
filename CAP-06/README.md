@@ -1,1 +1,1 @@
-## Todos os 
+## Todos os 15 exercícios resolvidos do capítulo 06.
