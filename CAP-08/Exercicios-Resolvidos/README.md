@@ -16,14 +16,3 @@
 |13|Faça uma sub-rotina que receba um vetor A de dez elementos inteiros como parâmetro. Ao final dessa função, deverá ter sido gerado um vetor B contendo o fatorial de cada elemento de A. O vetor B deverá ser mostrado no programa principal.|
 |14|Crie uma sub-rotina que receba como parâmetro dois vetores de dez elementos inteiros positivos e mostre o vetor união dos dois primeiros.|
 |15|Faça uma sub-rotina que receba como parâmetro um vetor A com cinco números reais e retorne esses números ordenados de forma crescente.|
-|16|Crie uma sub-rotina que receba dois vetores A e B de dez elementos inteiros como parâmetro. A sub-rotina deverá determinar e mostrar um vetor C que contenha os elementos de A e B em ordem decrescente. O vetor C deverá ser mostrado no programa principal.|
-|17|Faça uma sub-rotina que receba como parâmetro uma matriz A(5,5) e retorne a soma de seus elementos.|
-|18|Crie uma sub-rotina que receba como parâmetro uma matriz A(6,6) e retorne o menor elemento de sua diagonal secundária.|
-|19|Elabore uma sub-rotina que receba como parâmetro uma matriz A(6,6) e multiplique cada linha pelo elemento da diagonal principal da linha. A sub-rotina deverá retornar a matriz alterada para ser mostrada no programa principal.|
-|20|Crie uma sub-rotina que receba como parâmetro uma matriz A(12,12) e retorne a média aritmética dos elementos abaixo da diagonal principal.|
-|21|Escreva um algoritmo que leia um número não determinado de pares de valores x,y (x obrigatoriamente deve ser menor que y), todos inteiros e positivos, um par de cada vez. Para cada par, chame uma sub-rotina que determine a soma dos números primos entre x e y (inclusive). O algoritmo deverá mostrar os valores de x e de y, seguidos pelo somatório calculado. A leitura dos pares terminará quando os valores digitados para x e y forem iguais.|
-|22|Crie um programa que carregue um vetor com oito números inteiros, calcule e mostre dois vetores resultantes. O primeiro vetor resultante deverá conter os números positivos e o segundo, os números negativos. Cada vetor resultante terá no máximo oito posições, e nem todas serão obrigatoriamente utilizadas.|
-|23|Crie um programa que carregue uma matriz 3X4 com números reais. Utilize uma função para copiar todos os valores da matriz para um vetor de 12 posições. Esse vetor deverá ser mostrado no programa principal.|
-|24|Faça um programa contendo uma sub-rotina que receba dois valores numéricos e um símbolo. Esse símbolo representará a operação que se deseja efetuar com os números. Se o símbolo for +, deverá ser realizada uma adição, e, se for *, deverá ser efetuada uma multiplicação. O resultado deverá ser mostrado no programa principal.|
-|25|Crie uma sub-rotina que receba como parâmetro um vetor A de 25 números inteiros e substitua todos os valores negativos de A por zero. O vetor resultante deverá ser mostrado no programa principal.|
-
